@@ -4,7 +4,7 @@ import {
   createBrowserRouter,
   RouterProvider,
 } from "react-router-dom";
-import './index.scss';
+import './global.scss';
 import Home from './views/Home/Home';
 import Livros from './views/Livros/Livros';
 import LivrosCadastro from './views/LivrosCadastro/LivrosCadastro';
